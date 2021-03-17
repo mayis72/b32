@@ -1,0 +1,1 @@
+[{"inputs":[],"name":"WETH","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","$contractName":"uniswap-v2-router-02"}]
